@@ -28,9 +28,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swatikareddy&show_icons=true&theme=tokyonight" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=swatikareddy&theme=tokyonight" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/swatikareddy">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -68,4 +68,3 @@
 </p>
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
