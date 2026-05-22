@@ -27,15 +27,6 @@ Aspiring Software Developer | Python & Web Development Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatikareddy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatikareddy&theme=tokyonight" />
-</p>
 
 ---
 
